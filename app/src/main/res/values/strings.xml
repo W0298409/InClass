@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass1</string>
+    <string name="textForBtnDemo">Run Demo</string>
+    <string name="textForTvDemo">Pressed</string>
+</resources>
